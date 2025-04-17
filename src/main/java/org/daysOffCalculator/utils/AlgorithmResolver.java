@@ -1,12 +1,12 @@
 package org.daysOffCalculator.utils;
 
-import lombok.Data;
+import lombok.experimental.UtilityClass;
 import org.daysOffCalculator.dto.Algorithm;
 import org.daysOffCalculator.dto.UserDayOffInfoDto;
 
 import java.util.Optional;
 
-@Data
+@UtilityClass
 public class AlgorithmResolver {
 
 
