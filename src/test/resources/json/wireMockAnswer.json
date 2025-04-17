@@ -1,0 +1,125 @@
+{
+  "status": "ok",
+  "country_code": "ru",
+  "country_text": "Российская Федерация",
+  "dt_start": "16.04.2025",
+  "dt_end": "30.04.2025",
+  "work_week_type": "5-и дневная рабочая неделя",
+  "period": "Произвольный период",
+  "statistic": {
+    "calendar_days": 15,
+    "calendar_days_without_holidays": 15,
+    "work_days": 11,
+    "weekends": 4,
+    "holidays": 0,
+    "shortened_working_days": 1,
+    "working_hours": 87
+  },
+  "days": [
+    {
+      "date": "16.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "ср",
+      "working_hours": 8
+    },
+    {
+      "date": "17.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "чт",
+      "working_hours": 8
+    },
+    {
+      "date": "18.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "пт",
+      "working_hours": 8
+    },
+    {
+      "date": "19.04.2025",
+      "type_id": 2,
+      "type_text": "Выходной день",
+      "week_day": "сб",
+      "working_hours": 0
+    },
+    {
+      "date": "20.04.2025",
+      "type_id": 2,
+      "type_text": "Выходной день",
+      "week_day": "вс",
+      "working_hours": 0
+    },
+    {
+      "date": "21.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "пн",
+      "working_hours": 8
+    },
+    {
+      "date": "22.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "вт",
+      "working_hours": 8
+    },
+    {
+      "date": "23.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "ср",
+      "working_hours": 8
+    },
+    {
+      "date": "24.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "чт",
+      "working_hours": 8
+    },
+    {
+      "date": "25.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "пт",
+      "working_hours": 8
+    },
+    {
+      "date": "26.04.2025",
+      "type_id": 2,
+      "type_text": "Выходной день",
+      "week_day": "сб",
+      "working_hours": 0
+    },
+    {
+      "date": "27.04.2025",
+      "type_id": 2,
+      "type_text": "Выходной день",
+      "week_day": "вс",
+      "working_hours": 0
+    },
+    {
+      "date": "28.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "пн",
+      "working_hours": 8
+    },
+    {
+      "date": "29.04.2025",
+      "type_id": 1,
+      "type_text": "Рабочий день",
+      "week_day": "вт",
+      "working_hours": 8
+    },
+    {
+      "date": "30.04.2025",
+      "type_id": 5,
+      "type_text": "Предпраздничный сокращенный рабочий день",
+      "week_day": "ср",
+      "working_hours": 7
+    }
+  ]
+}

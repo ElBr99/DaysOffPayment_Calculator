@@ -1,0 +1,7 @@
+application:
+  # Токен к открытому api производственного календаря
+  calendar:
+    domain: ${wiremock.server.baseUrl}
+    token: 6914a408120146bcb82ab95c003bc6ad
+    country: ru
+    region: 36
